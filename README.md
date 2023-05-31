@@ -8,5 +8,5 @@
 - A classe Desenho agrupa figuras (Triangulo e/ou Retangulo) em uma lista. Este classe possui o método getArea que permite retornar a área total de todas as figuras do desenho.<br>
 - As classes Triangulo e Retangulo já foram testadas isoladamente através de testes unitários. <br>
 - O teste unitário TestDesenho contêm duas operações de teste de integração:<br>
--   testGetAdicionar() que irá testar a inclusão de uma figura<br>
--   testGetArea() que irá testar a soma das áreas das figuras do desenho.<br>
+  -- testGetAdicionar() que irá testar a inclusão de uma figura<br>
+  -- testGetArea() que irá testar a soma das áreas das figuras do desenho.<br>
