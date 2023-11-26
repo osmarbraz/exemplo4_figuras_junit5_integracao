@@ -3,7 +3,7 @@
     
     <modelVersion>4.0.0</modelVersion>
     <groupId>com</groupId>
-    <artifactId>figuras_teste5_integracao</artifactId>
+    <artifactId>exemplo4_figuras_junit5_integracao</artifactId>
     <version>1</version>
     <packaging>jar</packaging>
                 
@@ -93,5 +93,5 @@
             
         </plugins>        
     </build>
-    <name>figuras_teste5_integracao</name>
+    <name>exemplo4_figuras_junit5_integracao</name>
 </project>

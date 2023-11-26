@@ -1,4 +1,4 @@
-# Exemplo de teste de integração com Junit 5.
+# Exemplo 4 de teste de integração de figuras com Junit 5.
 
 ## Projeto
 - O projeto foi desenvolvido no NetBeans deve ser chamado figuras_teste5_integracao.<br>
