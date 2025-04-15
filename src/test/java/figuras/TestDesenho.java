@@ -25,8 +25,7 @@ class TestDesenho {
     }
     
     @Test    
-    void testGetArea() {
-        
+    void testGetArea() {        
         //Objeto desenho a ser testado
         Desenho desenho = new Desenho();        
        
