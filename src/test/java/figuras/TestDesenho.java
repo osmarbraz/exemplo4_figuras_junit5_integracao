@@ -8,7 +8,7 @@ class TestDesenho {
     
     @Test    
     void testAdicionar() {
-         //Objeto desenho a ser testado
+        //Objeto desenho a ser testado
         Desenho desenho = new Desenho();
         
         //Insere uma figura do tipo retângulo
@@ -16,6 +16,7 @@ class TestDesenho {
         double baseRetangulo = 2;
         Retangulo retangulo = new Retangulo("", baseRetangulo, alturaRetangulo);
         
+        //Adiciona o retângulo ao desenho
         desenho.adicionar(retangulo);
 
         int retornoFeito = desenho.getFiguras().size();  
