@@ -17,10 +17,11 @@ class TestDesenho {
         Retangulo retangulo = new Retangulo("", baseRetangulo, alturaRetangulo);
         
         desenho.adicionar(retangulo);
-        
-        assertEquals(1, desenho.getFiguras().size());
+
+        int retornoFeito = desenho.getFiguras().size();  
+        int retornoEsperado = 1;        
+        assertEquals(retornoEsperado, retornoFeito);
     }
-    
     
     @Test    
     void testGetArea() {
